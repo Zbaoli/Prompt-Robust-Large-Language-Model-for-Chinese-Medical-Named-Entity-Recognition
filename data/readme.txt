@@ -1,0 +1,3 @@
+Due to data sharing restrictions imposed by the CBLUE official platform, we are unable to release their proprietary dataset. 
+However, we have made our supplementary materials and processed data publicly available through the following repository: [Baidu Pan link: https://pan.baidu.com/s/1LSIxfL6KyDENR9Nz-df_1Q (access code: 7gvh)]. 
+Researchers can obtain the original CBLUE data directly from the official CBLUE website, and subsequently apply our publicly shared label generation and label type generation algorithms for annotation purposes.
